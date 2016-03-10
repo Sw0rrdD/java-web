@@ -1,0 +1,28 @@
+.btn_letter {
+	width:25px;
+	BORDER: 1px solid #7b9ebd;
+	PADDING: 1px 1px 0px 2px;
+	FONT-SIZE: 14px;
+	CURSOR: point;
+	height:20px;
+	COLOR: #075bc3;
+	font-family: Arial;
+}
+.btn_num {
+	width:25px;
+	BORDER:1px solid #7ebf4f;
+	PADDING: 1px 1px 0px 2px;
+	FONT-SIZE: 12px;
+	CURSOR: point;
+	height:20px;
+	COLOR: black;
+	font-family: Arial;
+}
+.btn_input {
+	BORDER:1px solid #2C59AA;
+	PADDING:2px 2px 0px 2px;
+	FONT-SIZE:12px;
+	CURSOR:pointer;
+	COLOR:black;
+	font-family: Arial;
+}
